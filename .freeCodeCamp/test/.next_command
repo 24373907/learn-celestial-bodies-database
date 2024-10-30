@@ -65,3 +65,5 @@ pg_dump -cC --inserts -U freecodecamp universe > universe.sql
 git
 git status
 git add .
+git commit -m 'universe.sql'
+git push
